@@ -5,3 +5,5 @@ tags
 plugged
 sessions
 .netrwhist
+autoload/
+.init.vim-rplugin~
